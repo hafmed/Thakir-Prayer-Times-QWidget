@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Thakir Prayer Times
+Comment=A desktop application to calculate prayer times for Algeria cities and author in the World.
+Categories=Education;Utility;
+Icon=io.github.hafmed.Thakir-Prayer-Times
+Exec=thakir_prayer_times
+Terminal=false
+Keywords=Prayer;times;Islamic;Arabe;Algeria
+
+Name[ar]=ذكر لاوقات الصلاة
+Comment[ar]=برنامج اذان بسيط
+

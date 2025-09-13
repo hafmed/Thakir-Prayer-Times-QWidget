@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>io.github.hafmed.Thakir-Prayer-Times</id>
+    <name>Thakir Prayer Times</name>
+    <summary>A desktop application to calculate prayer times for Algeria cities and author in the World.</summary>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0-or-later</project_license>
+    <supports>
+        <control>pointing</control>
+        <control>keyboard</control>
+        <control>touch</control>
+    </supports>
+    <categories>
+        <category>Education</category>
+        <category>Utility</category>
+    </categories>
+    <keywords>
+        <keyword>Prayer</keyword>
+        <keyword>Iclamic</keyword>
+        <keyword>Arabic</keyword>
+        <keyword>Algeria</keyword>
+        <keyword>times</keyword>
+        <keyword>Qt</keyword>
+        <keyword>c++</keyword>
+    </keywords>
+    <description>
+        <p>
+            Thakir Prayer Times is a desktop application to calculate prayer times for Algeria cities and author in the World:
+        </p>
+        <ul>
+            <li>Accurate Prayer time calculator based on your current location;</li>
+            <li>With Azan/Adhan: visual and audio notifications/calls for prayer;</li>
+            <li>Quibla direction;</li>
+            <li>Enable/Disable Alert before Adhan;</li>
+            <li>Enable/Disable autostart in login;</li>
+            <li>Arabic GUI;</li>
+            <li>.....</li>
+        </ul>
+    </description>
+    <launchable type="desktop-id">io.github.hafmed.Thakir-Prayer-Times.desktop</launchable>
+    <releases>
+        <release version="2.0.7" date="2025-08-27">
+            <url type="details">https://sites.google.com/site/courshaf/</url>
+            <description>
+                <p>First release on Flathub</p>
+                <ul>
+                    <li>Minor bug fixes</li>
+                </ul>
+            </description>
+        </release>
+    </releases>
+    <content_rating type="oars-1.1" />
+    <developer id="org.hafsoftdz">
+        <name>Mohamed HAFIANE></name>
+    </developer>
+    <update_contact>thakir.dz@gmail.com
+    </update_contact>
+    <url type="homepage">https://sites.google.com/site/courshaf/</url>
+    <url type="bugtracker">https://github.com/hafmed/Thakir-Prayer-Times/issues</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://raw.githubusercontent.com/hafmed/Thakir-Prayer-Times/refs/heads/main/Screenshot/Screenshot_1.png</image>
+            <caption>Prayer times for City</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/hafmed/Thakir-Prayer-Times/refs/heads/main/Screenshot/Screenshot_2.png</image>
+            <caption>Page of settings and configuration of all options (cities, Methods of calculation, Autostart, ....)</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/hafmed/Thakir-Prayer-Times/refs/heads/main/Screenshot/Screenshot_3.png</image>
+            <caption>Users can select different Adhan (call to prayer) sounds and reminder settings for all prayer time</caption>
+        </screenshot>
+    </screenshots>
+</component>

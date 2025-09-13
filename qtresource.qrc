@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/application-exit.png</file>
+        <file>icons/Clock.png</file>
+        <file>icons/configure.png</file>
+        <file>icons/go-down.png</file>
+        <file>icons/go-up.png</file>
+        <file>icons/help-about.png</file>
+        <file>icons/minbar.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/ox16-app-kaaba-icon.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/warning.png</file>
+        <file>sound/adthan_Quodss.wav</file>
+        <file>sound/athan_Algeria.wav</file>
+        <file>sound/adhan_court.mp3</file>
+        <file>sound/adhan_Maddina.mp3</file>
+        <file>sound/adhan_Makka.mp3</file>
+        <file>icons/io.github.hafmed.Thakir-Prayer-Times.ico</file>
+        <file>icons/io.github.hafmed.Thakir-Prayer-Times.png</file>
+    </qresource>
+</RCC>
