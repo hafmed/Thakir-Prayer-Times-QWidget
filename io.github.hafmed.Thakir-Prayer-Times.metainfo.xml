@@ -34,7 +34,6 @@
             <li>Enable/Disable Alert before Adhan;</li>
             <li>Enable/Disable autostart in login;</li>
             <li>Arabic GUI;</li>
-            <li>.....</li>
         </ul>
     </description>
     <launchable type="desktop-id">io.github.hafmed.Thakir-Prayer-Times.desktop</launchable>
